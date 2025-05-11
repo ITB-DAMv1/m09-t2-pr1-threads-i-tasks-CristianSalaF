@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace T2_PR1_Philosophers_CristianSalaF.PhilosophersDinner
+namespace T2_PR1_Ex1.PhilosophersDinner
 {
     public class StatisticsWriter
     {
