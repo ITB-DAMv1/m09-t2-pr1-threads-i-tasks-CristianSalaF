@@ -1,7 +1,7 @@
 ﻿using CsvHelper.Configuration.Attributes;
-using T2_PR1_Philosophers_CristianSalaF.PhilosophersDinner;
+using T2_PR1_Ex1.PhilosophersDinner;
 
-namespace T2_PR1_Philosophers_CristianSalaF
+namespace T2_PR1_Ex1
 {
     internal class Program
     {
